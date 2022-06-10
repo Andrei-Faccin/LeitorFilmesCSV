@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Aplicacao {
 
-    public static final int ANO_LANCAMENTO_FILTRO = 2009;
+    public static final int ANO_LANCAMENTO_FILTRO = 2019;
     public static final String ESTUDIO_FILTRO = "Universal";
 
     public static void main(String[] args) {
